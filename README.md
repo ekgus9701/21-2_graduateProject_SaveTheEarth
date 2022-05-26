@@ -1,5 +1,4 @@
-# SaveTheEarth  
-### VR-Based Game Raising Awareness of Environmental Pollution
+# 지구를 
 
 <br/>
 
