@@ -1,15 +1,9 @@
-# SaveTheEarth
-
-
-
-## V알조 유튜브 채널
-[Youtube Link]()
-
+# SaveTheEarth  
 
 
 ## 시현영상 링크
 V알조-지구를 지켜라 시현영상 : [Youtube Link]()
-
+V알조-지구를 지켜라 발표영상 : [Youtube Link]()  
 
 
 ## 프로젝트 목적
