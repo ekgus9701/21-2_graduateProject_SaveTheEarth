@@ -54,4 +54,4 @@ Quest라고 적힌 지구 버튼이 특정 씬마다 등장하고, 플레이어�
 
 ## 조작법
 ![441-4417759_oculus-rift-controller-layout-hd-png-download](https://user-images.githubusercontent.com/68942045/170456490-41c757c1-84c6-4e25-b720-a60dabe1ec7c.png)
-<img src="https://user-images.githubusercontent.com/68942045/170456490-41c757c1-84c6-4e25-b720-a60dabe1ec7c.png" width="200" height="1000"/>
+<img src="https://user-images.githubusercontent.com/68942045/170456490-41c757c1-84c6-4e25-b720-a60dabe1ec7c.png" width="1000" height="200"/>
