@@ -1,7 +1,7 @@
 # 지구를 부탁해
 
-## 시현영상 링크
-V알조-지구를 지켜라 시현영상, 발표영상 : [Click](https://drive.google.com/drive/folders/1O0N3Wy7XDfYgtX12HROJLp6nWVB9Xo2z?usp=sharing)   
+## 시연영상 링크
+V알조-지구를 지켜라 시연영상, 발표영상 : [Click](https://drive.google.com/drive/folders/1O0N3Wy7XDfYgtX12HROJLp6nWVB9Xo2z?usp=sharing)   
 
 <br/>
 
