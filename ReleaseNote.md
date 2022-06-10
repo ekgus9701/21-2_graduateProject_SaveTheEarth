@@ -4,9 +4,10 @@
 - oculus rift를 직접 연결하시는 경우 
   1) 하단의 파일을 다운받고 압축을 해제한다.
   2) oculus rift를 연결한다.
-  3) 저장된 SaveTheEarth_VRJO 폴더에 들어간다.
-  4) GraduateProject_VRJO.exe 파일을 누른다.
-  5) 게임을 즐긴다:)
+  3) oculus 앱을 실행한다
+  4) 저장된 SaveTheEarth_VRJO 폴더에 들어간다.
+  5) GraduateProject_VRJO.exe 파일을 누른다.
+  6) 게임을 즐긴다:)
 
 - VR룸에서 이용하시는 경우
   1) 바탕화면에 저장된 SaveTheEarth_VRJO 폴더에 들어간다.
