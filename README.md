@@ -30,7 +30,7 @@ V알조-지구를 지켜라 시연영상, 발표영상 : [Click](https://drive.g
 ![441-4417759_oculus-rift-controller-layout-hd-png-download](https://user-images.githubusercontent.com/68942045/170456490-41c757c1-84c6-4e25-b720-a60dabe1ec7c.png)
 + 왼쪽 JOYSTICK : 이동
 + 오른쪽 JOYSTICK : 방향
-+ QUICTURNS(A버튼) : A버튼을 누르면 총이 나온다.
++ QUICKTURNS(A버튼) : A버튼을 누르면 총이 나온다.
 + MENU(B버튼) : B버튼을 누르면 Ray가 나온다.
 + TRIGGER : 버튼 클릭을 할 때 Trigeer를 누른다.
 + GRIP : 물건을 집을 때 GRIP 버튼을 누르고 물건을 놓을 때에는 GRIP 버튼을 손에서 뗀다.
