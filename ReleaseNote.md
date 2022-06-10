@@ -10,7 +10,10 @@
 
 2) VR룸에서 이용하시는 경우
   - 바탕화면에 저장된 SaveTheEarth_VRJO 폴더에 들어간다.
+  ![image](https://user-images.githubusercontent.com/95201390/172984585-f36c3505-6bd1-4767-816f-4f84b2e80916.png)
   - GraduateProject_VRJO.exe 파일을 누른다.
+  ![image](https://user-images.githubusercontent.com/95201390/172984701-7e040b6e-14b3-476a-8174-7b0ebe715dd5.png)
+
   - 게임을 즐긴다:)
 
 ### [컨트롤러 조작법]
