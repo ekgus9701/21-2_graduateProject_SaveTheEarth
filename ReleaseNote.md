@@ -52,4 +52,5 @@
 
 ### <게임 다운 링크>
 https://drive.google.com/drive/folders/1ZeKedSwWa9ETdwKJ3e9KZa6gLbEk71e7?usp=sharing 
+
 파일 용량이 너무 커 Github에 올라가지 않아 구글 드라이브 링크로 대체합니다.
