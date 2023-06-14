@@ -1,7 +1,14 @@
 # 지구를 부탁해
 
 2021년 2학기~2022년 1학기에 진행한 컴퓨터공학전공 졸업프로젝트이다. 
+
 이화여대 2022-1 졸업프로젝트 최우수상을 수상하였다.
+![image](https://github.com/ekgus9701/21-2_graduateProject_SaveTheEarth/assets/52192706/2e884ca2-9c66-4a3f-858f-9079550ec924)
+
+
+## 졸업프로젝트 포스터
+![졸업프로젝트 포스터 (1)](https://github.com/ekgus9701/21-2_graduateProject_SaveTheEarth/assets/52192706/0a81c887-9263-4154-9eeb-42ea3dd6cc1f)
+
 
 ## 시연영상 링크
 V알조-지구를 지켜라 시연영상, 발표영상 : [Click](https://drive.google.com/drive/folders/1O0N3Wy7XDfYgtX12HROJLp6nWVB9Xo2z?usp=sharing)   
