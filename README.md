@@ -3,6 +3,7 @@
 2021년 2학기~2022년 1학기에 진행한 컴퓨터공학전공 졸업프로젝트이다. 
 
 이화여대 2022-1 졸업프로젝트 최우수상을 수상하였다.
+
 ![image](https://github.com/ekgus9701/21-2_graduateProject_SaveTheEarth/assets/52192706/2e884ca2-9c66-4a3f-858f-9079550ec924)
 
 
