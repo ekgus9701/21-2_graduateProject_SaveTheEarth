@@ -2,9 +2,9 @@
 
 2021년 2학기~2022년 1학기에 진행한 컴퓨터공학전공 졸업프로젝트이다. 
 
-이화여대 2022-1 졸업프로젝트 최우수상을 수상하였다.
+<!--이화여대 2022-1 졸업프로젝트 최우수상을 수상하였다.
 
-![image](https://github.com/ekgus9701/21-2_graduateProject_SaveTheEarth/assets/52192706/2e884ca2-9c66-4a3f-858f-9079550ec924)
+![image](https://github.com/ekgus9701/21-2_graduateProject_SaveTheEarth/assets/52192706/2e884ca2-9c66-4a3f-858f-9079550ec924) -->
 
 ## 트러블 슈팅 작성 글
 [Click](https://velog.io/@kkily55/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%EC%B4%9D-%EC%A0%95%EB%A6%AC)
